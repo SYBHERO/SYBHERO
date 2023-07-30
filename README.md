@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SYBHERO
-- 👀 I’m interested in learnig code both from software dev and game dev 
+- 👀 I’m interested in learnig code both software dev and game dev 
 - 🌱 I’m currently learning nothing and would like to start on this jureny 
 - 💞️ I’m looking from some guidens to start my jurney in coding
 - 📫 How to reach me discord - sybhero
